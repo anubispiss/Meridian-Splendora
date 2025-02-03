@@ -1,7 +1,5 @@
 "use client"
 import Image from "next/image"
-import { Button } from "../components/ui/button"
-import { Watch } from "lucide-react"
 import Link from "next/link"
 import { useCallback, useState, useEffect } from "react"
 
